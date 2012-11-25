@@ -1,4 +1,5 @@
-java_example
+Java примеры
 ============
 
-Примеры java
+* Пример использования JTable с DefaultTabelModel
+* Пример использования JTable с пользовательским TabelModel
